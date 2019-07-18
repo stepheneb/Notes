@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
@@ -99,7 +98,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Notes\Notes.csproj">
-      <Project>{D56BB0B3-4D0F-4140-B6C3-5C888E68DA33}</Project>
+      <Project>{B25F23F9-30D3-4588-9D59-DD2BDD228119}</Project>
       <Name>Notes</Name>
     </ProjectReference>
   </ItemGroup>
